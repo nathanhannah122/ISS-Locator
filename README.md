@@ -17,6 +17,15 @@ Using an API and turtle with Python to display location of ISS :
 **API used:**
 
 http://open-notify.org/Open-Notify-API/
+
+----------------------------------------------------------------------
+
+**Interface**
+
+![ISS_output](https://user-images.githubusercontent.com/74415841/114310983-ca2b7a00-9ae4-11eb-96c0-f0fc5f8f021c.PNG)
+
+![Turtle_output](https://user-images.githubusercontent.com/74415841/114311118-65bcea80-9ae5-11eb-82b3-8cc4b21b6232.PNG)
+
 ----------------------------------------------------------------------
 
 **Installing packages using Pycharm**
@@ -28,6 +37,8 @@ http://open-notify.org/Open-Notify-API/
 - Select version needed (latest)
 - Select 'install package' at bottom left of the screen
 
+----------------------------------------------------------------------
+
 **Installing using terminal** 
 
 pip install (insert package name)
@@ -35,5 +46,11 @@ pip install (insert package name)
 `pip install geocoder`
 
 ----------------------------------------------------------------------
+
+**NB**
+
+To end the program you can either:
+- Stop the runtime in the IDE
+- Close the Turtle Graphics window 
 
 Thanks for reading me! ~ nathanhannah122
